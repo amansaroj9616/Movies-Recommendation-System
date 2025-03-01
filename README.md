@@ -11,6 +11,7 @@ The Movie Recommendation System is a machine learning-based application that sug
 - Collaborative filtering using the K-Nearest Neighbors (KNN) algorithm
 - Cosine similarity for finding similar movies
 - Interactive user interface
+- ![image alt](https://github.com/amansaroj9616/Movies-Recommendation-System/blob/ff2a2ffba1a695da4b9f3f24c786eedf6617c376/recommendation-system-Banner.png)
 
 ## Tech Stack
 - Programming Language: Python
