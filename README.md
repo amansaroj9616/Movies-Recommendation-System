@@ -1,5 +1,5 @@
 # Movie Recommendation System
-[!image alt ](https://github.com/amansaroj9616/Movies-Recommendation-System/blob/28059e5aae0afc35295598eab6d3db817fbcaa7a/Screenshot%202023-11-27%20214917.png)
+![image alt](https://github.com/amansaroj9616/Movies-Recommendation-System/blob/28059e5aae0afc35295598eab6d3db817fbcaa7a/Screenshot%202023-11-27%20214917.png)
 
 ## Overview
 The Movie Recommendation System is a machine learning-based application that suggests movies to users based on their preferences. The system leverages collaborative filtering and content-based filtering techniques to provide personalized recommendations.
